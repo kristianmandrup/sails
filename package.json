@@ -14,6 +14,8 @@
     "REST",
     "API",
     "orm",
+    "angular",
+    "mongodb",
     "socket.io"
   ],
   "main": "./lib/index",
@@ -59,12 +61,15 @@
     "ejs": "0.8.4",
     "ejs-locals": "1.0.2",
     "connect-flash": "0.1.1",
-    "pluralize": "0.0.5"
+    "pluralize": "0.0.5",
+    "password": "0.1.17"
   },
   "devDependencies": {
     "mocha": "*",
     "request": "*",
-    "wrench": "~1.5.1"
+    "wrench": "~1.5.1",
+    "generator-angular": "0.4.0",
+    "yo"
   },
   "optionalDependencies": {
     "coffee-script": "1.6.2"

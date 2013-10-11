@@ -11,6 +11,38 @@ However I feel that the old Server side page generation model is obsolete by now
 It would also be interesting to see if we could make an adapter for the Firebase database for real-time data sync across multiple user sessions.
 I also want to have Password integrated as demonstrated here: https://gist.github.com/theangryangel/5060446
 
+Also on my wish list is Jade for AngularJS client side partials.
+
+Please help me out if you think these ideas are promising and you have even more clever ideas ;)
+
+Yeoman
+
+<a href="http://yeoman.io/gettingstarted.html">Yo man!</a>
+
+Passport
+
+<a href="http://passportjs.org/">here</a>
+
+AngularUI
+
+<a href="http://angular-ui.github.io/">here</a>
+
+Angular-UI router
+
+<a href="https://github.com/angular-ui/ui-router"/>Angular-UI router</a>
+
+See <a href="http://egghead.io/lessons/angularjs-introduction-ui-router">video</a>
+
+And <a href="http://joelhooks.com/blog/2013/07/22/the-basics-of-using-ui-router-with-angularjs/">how to</a>
+
+Angular Twitter Bootstrap directives
+
+`$ bower install angular-bootstrap` 
+
+Angular Forms?
+
+<a href="http://forms-ng.herokuapp.com/#/index">Angular forms</a>
+
 # Intro to Sails.js
 <a href="http://net.tutsplus.com/tutorials/javascript-ajax/working-with-data-in-sails-js/">Nettuts+ Working With Data in Sails.js</a>  
 [![ScreenShot](http://balderdashy.github.com/sails/images/screenshot.png)](http://youtu.be/GK-tFvpIR7c)
@@ -21,7 +53,6 @@ To install the latest stable release with the command-line tool:
 ```sh
 sudo npm -g install sails
 ```
-
 
 # Creating a New Sails Project
 
